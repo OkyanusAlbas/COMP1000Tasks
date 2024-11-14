@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/okyanusalbas/Projects/COMP1000Tasks/Week8/W8Task4",
+      "program": "/Users/okyanusalbas/Projects/COMP1000Tasks/Week8/W8Task4/build/Debug/outDebug"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/okyanusalbas/Projects/Week2/W2Task2/w2task2'
+relocations:     []
+...

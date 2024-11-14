@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/okyanusalbas/Projects/Week3/W3Task3/W3Task3'
+relocations:     []
+...
